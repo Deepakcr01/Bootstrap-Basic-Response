@@ -1,0 +1,11 @@
+.card-body {
+    background-color: rgb(242, 242, 242);
+    border-radius: .8rem;
+}
+.space {
+font-weight: 500;
+} 
+
+i {
+    font-size: 1.4rem;
+}

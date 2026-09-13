@@ -1,0 +1,16 @@
+.main {
+    /* height: 35vh; */
+    border: 1px solid grey;
+    border-radius: 1rem;
+}
+
+.box{
+    height: 20vh;
+    color: white;
+    font-size: 2rem;
+    border-radius: 1rem;
+}
+.red {
+    font-size: 1.8rem;
+    font-weight: 600;
+}
