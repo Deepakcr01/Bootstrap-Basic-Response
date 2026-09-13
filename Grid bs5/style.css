@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.boot {
+    background-color: tomato;
+
+}
+
+.Box {
+    border: 15px solid rgb(255, 255, 255);
+    height: 25vh;
+    background-color: chartreuse;
+    text-align: center;
+    /* align-items: center; */
+}
+
+.Box1 {
+    height: 40vh;
+    border-bottom: 15px solid rgb(255, 255, 255);
+    border-left: 15px solid rgb(255, 255, 255);
+
+
+    background-color: rgb(251, 115, 235);
+    text-align: center;
+}
+
+.Box2 {
+    height: 70vh;
+    border: 15px solid rgb(255, 255, 255);
+
+    background-color: rgb(225, 255, 0);
+    text-align: center;
+}
